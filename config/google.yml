@@ -1,0 +1,11 @@
+shared:
+  google_key: AIzaSyBBwRNlt4ELMAg9k46CV6yCT-1xXtiXB_g
+
+development:
+  google_key: AIzaSyBBwRNlt4ELMAg9k46CV6yCT-1xXtiXB_g
+
+test:
+  google_key: AIzaSyBBwRNlt4ELMAg9k46CV6yCT-1xXtiXB_g
+
+production:
+  google_key: AIzaSyBBwRNlt4ELMAg9k46CV6yCT-1xXtiXB_g
